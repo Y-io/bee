@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+
+# dependencies
+node_modules/
+*.log
+
+# production
+dist
+esm
+
+# misc
+.DS_Store
